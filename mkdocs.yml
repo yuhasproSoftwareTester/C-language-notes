@@ -1,7 +1,7 @@
-site_name: $site_name # Change this to your site name
-site_description: $site_description
-site_url: $site_url # Change this to your site URL
-site_author: $site_author
+site_name: "C Language Notes"
+site_description: "My programming notes and snippets"
+site_url:  https://github.io
+site_author: Afwan
 
 theme:
     name: 'material'
