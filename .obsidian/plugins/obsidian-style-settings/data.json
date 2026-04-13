@@ -1,0 +1,12 @@
+{
+  "retroma-obsidian-theme@@theme-font-selection": "retroma-font-cascadia-code",
+  "retroma-obsidian-theme@@window-border-radius": "6px",
+  "retroma-obsidian-theme@@button-border-radius": "6px",
+  "retroma-obsidian-theme@@lightness-accent": 0,
+  "retroma-obsidian-theme@@theme-color-scheme-selection": "cs-monochromatic-colors",
+  "retroma-obsidian-theme@@theme-variant": "theme-variant-2",
+  "retroma-obsidian-theme@@rotation-1": 79,
+  "retroma-obsidian-theme@@rotation-2": 320,
+  "retroma-obsidian-theme@@folder-border-stlye": "default",
+  "retroma-obsidian-theme@@retroma-folder-scrollbar": "unset"
+}
